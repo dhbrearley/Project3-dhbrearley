@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Fall2024_Assignment3_dhbrearley
+build_property.RootNamespace = Fall2024_Assignment3_dhbrearley
+build_property.ProjectDir = C:\cygwin\CS330-PROJ3\Fall2024-Assignment3-dhbrearley\Fall2024-Assignment3-dhbrearley\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\cygwin\CS330-PROJ3\Fall2024-Assignment3-dhbrearley\Fall2024-Assignment3-dhbrearley
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Actor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Actor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Actor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Actor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Actor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/MovieActor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVBY3RvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/MovieActor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVBY3RvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/MovieActor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVBY3RvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/MovieActor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVBY3RvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/MovieActor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVBY3RvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Movie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Movie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cygwin/CS330-PROJ3/Fall2024-Assignment3-dhbrearley/Fall2024-Assignment3-dhbrearley/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-smm5lh8956

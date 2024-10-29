@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fall2024-Assignment3-dhbrearley.props" />
+</Project>

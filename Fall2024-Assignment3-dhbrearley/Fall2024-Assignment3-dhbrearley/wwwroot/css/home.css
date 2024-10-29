@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: auto;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+#Title {
+    margin-top: 150px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+h4 {
+    margin: 40px 0 0 0;
+    padding: 0;
+}
+
+h5 {
+    text-align: center;
+}
